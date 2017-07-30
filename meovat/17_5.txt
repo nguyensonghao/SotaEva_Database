@@ -1,0 +1,56 @@
+916. Mẹo làm hành lý trên tàu không đổ:
+Nên buộc chặt những đồ đạc để trên giá hành lý với thứ bên cạnh, đồ để dưới sàn tàu hoặc những nơi khác, phía trên nên dựa vào chân ghế hoặc gờ tường để giữ vật đứng im. Nếu không thể dựa vào đâu được thì để chiều dài của vật cùng hướng đi của tàu. Ngoài ra khi tàu rẽ hay tránh nhau cũng sẽ sinh ra lực hướng ngang, làm hai bên phải và trái không ổn định, vì thế những vật có trọng tâm hơi cao và những vật có chiều dài lớn hơn nhiều so với chiều rộng, nên đặt chênh chếch. Đây là những vị trí đẹp nhất của những vật không có chỗ dựa.
+917. Cách tìm phương hướng đi lạc trong rừng:
+- Đối với cây đứng một mình: Mặt hướng về phía nam thì lá tươi tốt,  um tùm, mặt hướng về  phía bắc thì lá thưa hơn.
+- ở quãng  rừng dậm: Phần núi quay về nam sẽ tương đối khô, phần núi quay về phía bắc lá sẽ ướt và có rêu.
+- Cây đào và cây tùng: Chỗ cây có nhựa thường quay về phía nam.
+- Vân gỗ: Nửa phía quay về nam sẽ có vẫn thưa hơn nửa phía quay về bắc.
+- Khe núi nham thạch: Phần có tuyết bao giờ cũng hướng về phía bắc.
+- Kiến thường làm tổ ở phía nam các cây lớn, cửa tổ cũng quay  về phương nam.
+- Các miếu cổ, tháp cổ và đường, nói chung đều quay lưng về phía bắc, ậty mặt về phía nam.
+- Bam đêm, chỉ cần tìm chòm sao Bắc Đẩu theo đường của žcán gầu	 là tìm thấy bắc cực rực sáng. Sao này nằm ở hướng chính bắc.
+918. Định hướng bằng đồng hồ:
+- Muốn định hướng, hãy chia số giờ lúc ấy cho 2 trên mặt đồng hồ, tìm vị trí có con số tương ứng với kết quả vừa tìm được, hướng thẳng vị trí ấy về phía mặt trời, số 12 trên mặt đồng hồ hướng về đâu thì hướng đó chính là hướng bắc. Ví dụ: nếu lúc ấy là 10 giờ sáng, chia cho hai được 5 chiếu thẳng số 5 trên mặt đồng  hồ về hướn mặt trời, hướng chiếu thẳng của số 12 chính là phương bắc. Nếu lúc tìm hướng là buổi chiều thì phải cộng số giờ lúc ấy với 12. Ví dụ: lúc là 2 giờ chiều thì công thức tính là (2+12): 2=7.
+- Ngửa mặt đồng hồ lên, cho kim giờ chiếu thẳng vào mặt trời. Lúc này kim giờ và đường thẳng chạy từ tâm đến 12 sẽ tạo thành một góc. Hướng chỉ của phân giác góc này chính là hướng nam. Nếu lúc đó là  6h sáng, chiếu thẳng kim giờ với mặt trời, phân giác của góc tạo giữa kim giờ và đường tâm đến số 12 sẽ chạy qua số 9, hướng của phân giác này chính là phương nam. Cũng chính thế vào 6h chiều, hướng chỉ từ tâm ra con số 	 sẽ là hướng nam vào 12h chưa hướng mặt trời nằm chính là hướng nam.
+919. Cách tính cự ly trong đêm.
+Có thể lợi dụng ánh sáng và tiếng động trong đêm để phán đoán cự ly, dựa vào thị lực và thính lực của người bình thường.
+- Trong khoảng 8-12 km có thể nghe tiếng máy bay.
+- Trong khoảng 5km có thấy đốm lửa thuốc lá.
+- Trong vòng 	km có thể thấy tia lửa của súng trường.
+- Trong vòng 5km có thể thấy lửa ở đầu  que diêm.
+- Trong vòng 5km có thể thấy ánh đèn pin.
+- Trong vòng 5km có thể nghe tiếng súng.
+- Trong vòng 2km có thể nghe tiếng còi ôtô.
+- Trong vòng 1,5km có thể nghe thấy người hò hoán.
+- Trong vòng 1km có thể nghe tiếng ôtô chạy.
+- Trong vòng 1km cso thể nghe tiếng vó ngựa.
+- Trong vòng 0,5km có thể nghe tiếng nói chuyện bình thường.
+920. Phòng say xe, say tàu biển:
+Trước khi lên xe đừng ăn quá no, làm dạ dày khó chịu, dẫn đến nôn mửa, nhưng cũng không thể quá đói, vì quá đói sẽ làm hạ đường huyết, sẽ bị váng đầu, đổ mồ hôi. Khi lên tàu xe, nên tìm chỗ ngồi phía trên cho đỡ bị xóc và nhất thiết không nhin ra ngoài cửa sổ, để khỏi bị hoa mắt nhức đầu do các vật bên ngoài chạy quá nhanh.
+Ngoài ra, thắt lưng chặt lại để giảm bớt sự chấn động của cơ quan nội tạng, ngồi chỗ thông gió để giảm bớt kích thích không có lợi, Để giảm bớt hiện tượng say xe cũng có thể uống trước một ít thuốc chống say tàu xe thì càng tốt.
+921. Ba cách phòng say xe khách:
+- Trước khi lên xe hãy dán cao žThượng thấp chỉ thống	 (Trung Quốc sản xuất) lên rốn rồi có thể đi xe 8-9 tiếng trong ngày không hề say.
+- Trước khi lên xe, dán hai miếng băng dính y tế lên động mạch hai cổ tay là có thể bình an vô sự.
+- Vẩy ít dầu gió vào khẩu trang rồi đeo cũng có thể phòng say xe.
+- Cách này cũng có thể dùng cho người bị say tàu thuyền.
+922. Phòng say tàu, thuyền bằng trà đặc:
+	Uống càng nhiều nước trà đặc trên tàu xe thì hiệu quả phòng say càn g tốt.
+923. Cách trừ mỏi mệt khi đi máy bay:
+- ở trên máy bay hãy ngồi tại c hỗ và nghiêng người sang hai bên phải và trái cho máu được tuần  hoàn và cơ bắp được nới lỏng để loại trừ  cảm giác đau lưng, nhức đầu hoa mắt.
+- Khi lên máy bay chờ hành khách vào hết chỗ ngồi rồi hãy rời khỏi chỗ mình một chút rồi quay lại. Hít bằng mũi thở bàng miệng có thể làm cho thân thể thoả mái và giảm bớt cảm giác lo lắng. TIếp đó hãy làm một loạt các động tác như nắm chặt tay vào rồi thả lỏng tay ra.
+- Ngồi thẳng thả lỏng cơ vai cúi đầu xuống rồi lại ngẩng đầu lên từ từ áư tai trái vào để trong vòng 15giây, rồi lại làm như vậy với tai phải.
+924. Mẹo dùng trứng sống
+ - Trước khi nấu thực phẩm ướp lạnh hãy ngâm trước vào nước gừng thực phẩm sẽ co mùi ngon như luc tươi.
+- Khi cắt cá khô hãy bôi lên dao ít gừng sống và dầu vừng dù cá cứng đến đâu cũng có thể cắt được dễ dàng.
+- Chữa phong hàn cảm mạo, đuổi con trùng ra khỏi tai, Giải nọc rắn, chữa vết thương khi bị ngã, chữa nẻ.
+925. Mẹo sử dụng sữa
+- Sáng ngủ dậy nếu bị sưng mắt bạn hãy pha một ít sữa bò và dấm vào nước sôi tẩm bông day đi day lại lên da mắt từ 3 – 5 phút. Sau đó lấy khăn nóng đắp lênmột lúc mắt sẽ hết sưng.
+- Uống một cốc sữa bò sau khi ăn tỏi mắt miệng sẽ hết mùi hôi.
+- Trước khi nấu cá hãy ngâm cá vào sữa bò một lát mùi tanh sẽ hét ngay vị cá lại ngon.
+- Xoa mấy giọt sữa vào mặt và bàn tay làm cho sa sáng và mềm không kém gì dùng mỹ phẩm.
+- Lấy sữa uống thừa hoặc biến chất xoa lên các đồ bằng da vừa làm d akhỏi khô lại mềm đẹp
+- Khi trên đồ sưa có vết nứt nhỏ hãy đun nóng trong sữa khoảng 30 phút chất trong sưa sẽ làm liến vết nứt lại và có thể làm mặt ngoài của đồ sứ thêm đẹp.
+- Khi giặt rèm cửa sổ, cho thêm ít sữa bò vào nước xà phòng, sau khi giặt rèm cửa sẽ như mới.
+- Khi làm cá ướp lạnh cho một sữa bò vào trong nước nấu cá, cá sẽ có mùi vị gần như  cá tươi
+- Khi nấu súp lơ, nếu cho thêm một thìa sữa bò vào súp lơ sẽ trắng hơn.
+- Cho sữa bò vào đánh lẫn với trứng để rán, trứng sẽ mền và ngon hơn.

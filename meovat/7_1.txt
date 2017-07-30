@@ -1,0 +1,45 @@
+225. Chọn mua trái cây
+
+Cam, chanh, bưởi: Nâng trái cây trên tay,nếu thấy nhẹ là quả ít nước, xốp, khô. Chọn chanh cần chọn mua quả tròn lẳn, có màu xanh biếc.
+Mẵng cầu ta: Lựa chọn quả có gai, màu trắng ngà, không bị thâm đen và nứt nẻ.
+Xoài: Chọn thứ da căng bóng, có màu vàng sáng. Không lấy quả da thâm đen, vỏ nhăn, nhũn. Khúc đầu của xoài chín vàng mà cứng, bụng xoài phía dưới cùng chót đuôi có một chiếc mắt nhỏ, mắt nhỏ là hạt xoài nhỏ
+Lê, táo: Vỏ mịn màng, căng phồng, nặng mới ngon. 
+Dứa: Lựa quả to, mắt to đều, chín vàng, dùng tay búng vào cho tiếng kêu bình bịch là có nhiều nước, quả nào mắt nhỏ, sâu, không đều là loại dúa không ngon.
+Đu đủ: chọn quả đang chín ( ương ),màu vàng hơi ngả sang đỏ, nặng tay, cuống còn tươi.
+Mít: Nhìn gai mít: nếu các gai dàn xa nhau, không cao, nhọn, quả không có chỗ eo, lõm,búng tay kêu bình bịch nặng trái là ngon.
+Mít Tố nữ: Có cuống chỉ chừng 0,5cm, đừng nhầm với mít tây có cuống dài hơn ( 1 – 1,5cm). Mít tây ăn chua hơn mít tố nữ.
+Chuối: Chọn quả tròn đều, chín lốm đốm, màu vàng tươi hay xanh dã ngả vàng, không nát,không thâm đen. Chuối già ngon là chuối trái không quá to, chuối quả to là chuối già lùn không thơm.
+Chôm chôm, vải, nhãn: Ngon, nhiều nước là thứ vỏ mọng, nặng.Nhãn nên lựa thứ to, vỏ màu sậm và nặng.
+Sầu riêng: Sầu riêng ngon không nhất thiết phỉa là trái có mùi thơm, màu vỏ xanh hay vàng. Trái ngon là trái có gai nở tròn trịa bằng nhua không có vết xước, thủng sâu, không bị nứt ra,lắc thử có cảm giác bên trong như lỏng, rung ( ngọt, béo) vỗ nghe âm trầm, lấy tay bóp 2 gai câu vào thấy không cứng ( chín, không sượng )
+Măng cụt: Không cần phải trái to chọn trái có đường kính từ 4 -5 cm, quả nhỏ hơn là măng mọc cuối cành không ngon. Cuống phải tươi, vỏ bóng vừa phải, đó là trái chín cây. Tái có bụi phấn bám quanh là trái ngon, ít mủ.
+
+226. Quả khế và tác dụng 
+
+        Hàm ;ượng vitamin B1 và B2 trong khế rất nhiều, khế có tác dụng nhuận phổi thông họng, trị ho giúp tiêu hoá,lợi tiểu, trị bẹnh đau răng và say rượu. Khi họng bị đau có thể ăn khế, mỗi lần 1 quả,nagỳ ăn 2 – 3 lần. Những người mắc bệnh sốt rét nên ít ăn khế vì khế mang tính lạnh, ăn nhiều sẽ dẫn đến bệnh ỉa chảy.
+
+227. Lê sữa và tác dụng 
+
+      Lê sữa là một loại quả có giá trị dinh dưỡng cao, chứa nhiều hàm lượng prôtêin chất beos, đường, chất sơ, kẽm, natri, vitamin A, B1, C ,E….
+      Lê sữa là một loại rau quả giàu chất dinh dưỡng và hàm lượng chất béo tính thực vật cao nhất thế giới. Vì vậy nó còn có tên gọi là quả bơ rừng. Prôtêin và chất béo mang tính thực vật là loại thực vật dinh dưỡng tót nhất cho cơ thể
+
+228. Sơn tra và tác dụng 
+
+       Trong các loại quả, sơn tra có hàm lượng vitamin A nhiều nhất. Trong sơn tra có rất nhiều nguyên tố men, nhưmen tiêu hoá, men tinh bột. Vì vậy có hiệu quả trong việc chữa bệnh táo bón,bạnh phù thận. Quả Sơn tra có đặc tính rất mát, vị chua, đa phần dùng để ăn tươi,có tác dụng ích phế, nhuận hầu.
+       Những người tiêu hoá kém hoặc bị trướng hơi, tốt nhất nên ăn ít, Bởi hạt sơn tra có chứa axit  Xianogien có phản ứng không tốt với bệnh trên.Không được cho sơn tra vào tủ lạnh.
+
+229. Chanh và tác dụng 
+  
+        Chanh được dánh giá cao trong việc chữa bệnh xấu máu. Khi vận động nhiều, uống nước chanh dặc biệt có hiệu quả đối với cơ thể, nó không chỉ có tác dụng làm giảm mệt mỏi cho cơ thể mà đồng thời còn có tác dụng hạ huyết áp. Nước chanh cũng có thể chữa được bẹnh truyền nhiễm đường hô hấp, có tác dụng cầm máu, giảm ho, tác dụng giải khát, chống nóng, dưỡng thai, giúp gan tái sinh và cân bằng tổn thương do cồn gây ra. 
+      
+230. Quả bách hương và tác dụng 
+
+       Trong quả bách hương có chứa hàm lượng vitamin A, B1, B2, C. Bách hương có tác dụng tieu trừ mệt mỏi, giúp ăn ngon miệng, phục hồi thể lực, chống lão hoá, phòng bệnh huyết áp cao và sơ cứng động mạch.
+
+231. Vải và tác dụng 
+
+    Trong vải chứa rất nhiều hàm lượng chất béo, protein, lân, canxi, nhiều loại vitaminC cần thiết. Vải có tính bình vị chua ngọt, có thể bảo vệ lá lách, trị ỉa chảy, dưỡng gan, bổ máu, có lợi cho thận, chủ trị hư tì, máu xấu, cơ thể suy nhược, đái rắt.
+
+232. Táo và tác dụng 
+
+      Hàm lượng dinh dưỡng trong táo rất nhiều, chủ yếu là đường, đồng thời còn có nguyên tố kẽm, nitơ, kali, vitamin B, C, P, sắt, carotein,…
+      Trong quả táo tươi, hàm lượng đường chiếm từ 20% - 30 %, táo càng khô hàm lượng càng cao, cao hơn cây mía. Trong 100g táo thì có 300 – 500mg vitamin C. táo đem sấy khô làm thành táo khô. Mỗi 100g táo khô có 200mg vitamin C trở lên

@@ -1,0 +1,41 @@
+746. Những yêu cầu cho xăng xe máy
+      - Có tính bốc hơi tốt để đảm bảo cho động cơ dễ khở động và tính tăng tốc tốt.
+      - Không có tạp chất máy móc hoặc tạp chất hoá học, tránh dẫn đến động cơ bị ăn gỉ hoặc mài mòn nhanh.
+      - Tính chống nổ mạnh phát huy tốt công suất của động cơ đảm bảo mọi chuyển động bình thường.
+747. Yêu cầu đối với nhiên liệu của xe Honda
+      Xe máy Honda sử dụng động cơ hai kì chuyển tốc nhanh, nó yêu cầu cao đối với dầu nhiên liệu, tốt nhất nên sủ dụng loại xăng có hàm lượng chì thấp, có giá trị hydrocácbon là 85 – 95, tức là xăng 85 hoặc 95. Để xe chạy tôt, nhất thiêt skhông nên dùng xăng có nhiều tạp chất, ảnh hưởng đến tính năng động cơ, tăng trở ngại cho hệ thống đánh lửa làm tắc bộ chế hoà khí động cơ làm việc không tốt.
+748. Chú ý trong quá trình rà máy của xe mới
+       Để giữ cho xe máy có hiệu quả sử dụng tốt, sử dụng lâu bền và tiêt kiệm xăng điều quan trọng nhất là trong giai đoạn xe mới đi khi mới mua về càng phải chú ý nhiều hơn.
+       Xe mới đi trong giai đoạn rà máy nên tránh đi với tốc độ quá cao. Phụ tải của các linh kiện chuyển động và động cơ bị tăng nhiều sẽ ảnh hưởng đến hiện tượng bôi trơn bình thường. Vì thế, nên chọn mặt đường bằng phẳng để tránh vận hành trong thời gian dài và leo dốc lâu. Khi vào số tăng tốc từ từ tránh tăng tốc mạnh và đột nhiên tăng tố, hãy điều chỉnh xe  với tốc độ trung bình. Động cơ không đợc vận hành liên tục quá lâu, nếu không động cơ quá nóng tăng độ mài mòn nhanh cho các bộ phận. Động cơ sử dụng dầu hỗn hợp thì khi trong giai đoạn đầu nên pha tỷ lệ bôi trươn cho đúng. Để hạn chế động cơ chuyển tốc lớn nhất, xe có lắp thiết bị hạnc chế tốc độ thì trong thời kì ma hợp không nên thoá ra, khi xe được 1500km thì có thể tháo nó ra.
+749. Chọn bugi cho xe gắn máy           
+       Bugi là một bộ phận quan trọng trong vị trí đánh lửa của động cơ, cũng là nơi thường xảy ra các sự cố. Chỉ cần nơi đánh lửa có vấn đề thì phải kiểm tra ngay bugi. Bugi rất dễ hỏng khi hỏng thì phải thay cái mới.
+       Khi chọnh bugi, phải dựa vào đặc điểm của bugi và tính năng của xe, đồng thời cũng phải kết hợp tình huống cụ thể. Xe máy tốc độ cao chọn bugi nóng. Các loại xe tốc độ cao thường vì đường xá không tốt … nên tốc độ cao cũng bị hạn chế vì vậy cũng không nên chọn loại bugi nóng.
+750. Tại sao nhiên liệu tốn nhiều tiền
+     Lượng tiêu hao nhiên liệu tăng quá nhiều các nguyên nhân đó là:
+- Chở quá nặng đi với tốc độ cao, đón gió lớn, khi đi với tốc đọ chậm thì thời gian lâu, đi trên cát, đất xét…
+- Quán tính của xe kem
+- Số tiêu chuẩn của xăng ử dụng quá thấp
+- Công tắc xăng ống xăng và bình xăng có hiện tượng hở xăng và điều chỉnh bộ chế hoà khí
+- Đánh lửa quá sớm hoặc quá chậm
+Chú ý khi sử dụng ắc quy
+- Chất điện giải mà ắc quy sử dụng là được chế từ nước cất và axit trong suốt.
+- Lỗ thông khí trên nắp phải giữ cho thông thoáng.
+- Chỗ nối của dây dẫn và cực chính phụ của ắc quy nên bôi trơn thêm một ít dầu sáp hoặc mỡ, tránh bị ăn gỉ.
+- Không nên để các công cụ hoặc các đồ bằng kim loại lên trên ắc quy để tránh bị đoản mạch,  tạo nên tự mình phóng điện.
+751. Xử lý khi xe bị lệch
+      Nguyên nhân và cách sửa chữa khi đi xe bị lệch:
+- Bánh trước sau không ở cùng trên một mặt phẳng. Vặn chặt con bulông nối giữa đĩa bằng và nắp phanh, điều chỉnh bánh sau lại từ đề đến khi nó ăn khớp một mặt phẳng với bánh trước.
+- Con vít phương hướng vặn quá chặt, Ổ cuốn trục đỡ trên dưới bị hỏng nặng, bi thép có hiện tượng vỡ, gây nên điểm chết nên làm cho tay gas chuyển động không linh hoạt. Thay bi mới hoặc ổ cuốn trục đỡ trên dưới, điều chỉnh khe hở trục đỡ cho phù hợp.
+- Độ dài hoặc lực đàn hồi của lò so giảm xóc trái tim phải của bộ phận giảm xóc trước sau không đồng đều. Kiểm tra độ dài của lò xo, dùng đá mài đo độ dài của lò xo. Nếu như lực đàn hồi không tương đồng thì nên thay lò xo có lự đàn hồi tương đồng.
+- Ống đĩa trước hoặc ống dẫn hướng bị va chạm nên bị cong biến hình. Tháo ống đĩa trướ hoặc ống dẫn để sửa. Nếu như không điều chỉnh được thì thay cái mới.
+- Vành xe bánh trước sau bị cong thành hình số 8 hoặc đĩa trước sau của bánh xe bị lắp lệch. Điều chỉnh nan hoa và lắp bánh cho đúng.
+752. Xử lý khi xe đi chậm vẫn bị lắc
+     - Khe hở của trục đỡ trục phương hướng lớn. Nếu như con ốc đã bị vặn chặt cứng mà khe hở vẫn lớn thì kiểm tra, phần dưới đẩy ổ bị trục đỡ hoặc cuộn dây đã bị hỏng. Nếu như bị hỏng thì phải thay.
+    - Đệm ống dẫn hướng bị mòn nghiêm trọng làm cho khe hở bên trong đường kính lớn. Nên thay đệm hoặc ống dẫn đĩa trước.
+    - Giảm xóc trước bị lắp chặt, mất đi chức năng giảm xóc. Sửa giảm xóc trước để nó phù hợp để nó hồi phục chức năng giảm xóc.
+   - Vành bánh xe, hướng trục bánh xe có đường kính nhảy quá lớn. Điều chỉnh nan hoa hoặc vành xe.
+   - Hơi quá căng cần bơm hơi vừa đúng độ quy định 
+
+753. Xử lý khi phanh không ăn
+     Phanh là một bộ phận khi đi xe bạn phải rất quan tâm, nó đảm bảo độ an toàn cho bạn nếu phanh có vấn đề thì bạn nên kịp thời xử lý ngay.
+    Tấm ma sát trên đế phanh bị mài mòn nghiêm trọng làm cho khe hở giữa moay ơ phanh và tấm ma sát bị mài mở to, diện tích mặt tiếp xúc.

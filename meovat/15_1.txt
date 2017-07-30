@@ -1,0 +1,35 @@
+754. Các nguyên tắc cơ bản khi chọn quần áo:
+ Đối với quần áo may sẵn, hãy  xem cẩn thận đường may có tinh tế, tỉ mỉ hay không, quần áo may có thẳng mũi chỉ có chắc chắn, kiểu cách, màu sắc có hợp mốt hay không. Dùng tay kéo trong vài giây ở tay áo, nếu như nếp nhăn không dãn ra thì quấn áo sẽ rất rộng. Tóm  lịa phải chọn quần áo đẹp, thực dụng và thoải mái dựa trên nhưng nguyên tắc cơ bản để chọn quần áo.
+- Chọn quần: Vòng eo cao hay thấp nên điểm trên rốn một chút, thắt lưng rồi tay vẫn cho vào túi quần thoải mái, ngồi xuống, ống quần và đũng quần không nên chật quá, ống quần phủ phẳng trên giầy.
+- Chọn áo ngoài với yêu cầu không bị nhăn nhúm, có những yêu cầu khác nhau đối với các kiểu áo khác nhau. áo Trung Sơn chiều dài phải đến phần công của mông, tay áo trên eo bàn tay 	cm. áo Jackét, sơ mi, áo lót đòi hỏi chiều dài và tay áo ngắn hơn một chút so với áo Trung Sơn.
+755. Làm thế nào để chọn màu vải:
+Chọn màu vải phải dựa vào màu da, độ tuổi, thể hình của mỗi người. Vì màu sắc có cảm giác mở rộng hay thu nhỏ lại, vì người béo nên chọn màu sắc đậm chứ không nên nhạt, người gầy nên chọn màu sắc nhạt chứ không nên đậm. Màu nhạt làm cho ta cảm giác phân tán, dường như diệt tích được mở rộng ra, còn màu đậm thì làm cho ngừơi nhìn vào có cảm giác tập trung, diện tích dường như thu nhỏ lại, chúng ta có thể lợi dụng quy luật này để điều chỉnh hình thể.
+756. Màu vải có quan hệ chặt chẽ hơn với màu da:
+Người có làm da hơi đen nên chọn gam màu lạnh đậm, màu vốn có, như xanh lá cây, đỏ tía, xanh đen, nâu đỏž nên chọn quần áo có màu như trắng xanh hồng, trắng kem. Người có màu da trắng mặc quần áo màu gì cũng đẹp.
+Ngoài ra thanh niên thích mặc màu sặc sỡ, người già lại thiên về những màu tương đối, người có tính cách hoạt bát chọn vải thêm hoa, còn những người trầm tính thì chọn vải thêm trang nhã.
+757. Làm thế nào để chọn quần áo dựa vào màu da:
+Màu sắc và kiểu dáng của quần áo có thể thay đổi thể hình và màu da của mỗi con người, như vậy màu sắc của quần áo và trang sức sẽ đem đến cho người ảo giác.
+Mỗi người đều có màu sắc riêng của mình. Màu da mặt và toàn thân của mỗi người ngay cả trên màu mắc, màu tóc cũng thay đổi theo màu sắc quần áo. Có một số màu sắc cũng làm cho làm da sạch sẽ, linh động. Đồng thời màu sắc lại làm cho da mặt bạn vàng, xanh và tốt. Do chọn màu sắc quần áo vô cùng quan trọng.
+758. Cách loại vải không giặt bằng nước nóng:
+Tất cả các mặt hàng không giữ màu, hàng len, tơ tằm, quang hợp (ni lông, orlon, perlon, rayonnnež.)không giặt bằng nước nóng.
+759. Cách giặt giữ màu áo sơ mi:
+Áo sơ mi và áo may ô mới mua về, dùng nước sôi dội đi sạch rồi vớ mặc, không những mặc áo cho bền hơn mà lại không phai màu nữa. Tuy nhiên, áo  may bằng chất quang hợp thì không được dội qua nước sôi
+760. Cách giăt giữ màu quần Jean:
+Để quần Jean không bạc màu nhanh. Xin mách bạn mẹo nhỏ: Khi mới mua về bạn hãy ngâm nó trong nước lạnh pha muối đậm đặc ít nhất trong 12 tiếng đồng hồ sau đó đem xả sạch, màu của nó  sẽ bền hơn.
+761. Để áo sơ mi trắng không bị vàng ố:
+áo trăng sau khi mặc, giặt nhiều lần rất dễ bị chuyển màu vàng. Nếu ta thường xuyên dùng nước gạo ngâm quần áo, quần áo sẽ không bị vàng. Hoặc sau khi giặt bạn hãy nhỏ vài giọt mực xanh vào nước rồi ngâm quần áo vào đó. Làm như vậy cũng rất có hiệu quả việc chống quần áo trắng chuyển sang màu vàng.
+Nếu áo bị vàng do để lâu không mặc. Bạn hãy lấy một củ khoai tây luộc củ khoai tây cả vỏ, dùng cả củ khoai tây chà vào quần áo như xát xà bông. Sau đó giặt lại bằng nước sạch rồi phơi ở chỗ hóng gió
+762. Cách giữ màu quần áo vải sợi bông:
+Quần áo màu bằng chất liệu vải sợi bông (Cotton) sau khi giặt thường bị phia màu, nhưng nếu cho ít muối vào trước khi giặt giũ sẽ giữ được màu tươi lâu hơn. Cứ 2 ít nước cho 2 thìa ta bột giặt và 1 thìa to muối to, vò kỹ rũ sạch là được, bạn sẽ thấy rất hiệu quả.
+763. Giặt cổ áo và tay áo:
+Đối với cổ áo và tay áo bị bẩn, nếu bạn dùng bàn chải xà phòng chải thị sẽ rất hại cho áo. Xin mách bạn một mẹo nhỏ:
+Bôi lên một lớp thuốc đánh răng, rồi dùng bàn chải chà nhẹ một vài phút hoặc bạn có thể xát lên ống tay áo và cổ áo một ít muối, dùng tay vò nhẹ, sau đó dùng nước sạch giặt cho hết thuốc đánh răng hoặc muối rồi giặt như bình thường, như vậy, cổ áo và ống tay áo sẽ rất sạch.
+áo sau khi giặt sạch, bạn lấy một ít phấn rôm trẻ em rắc lên cổ áo và ống tay áo, tiếp đó bạn dùng bàn là là nhẹ, tiếp theo lại rắc thêm một ít phấn rôm, lần sau khi giặt, cổ áo và ống tay áo sẽ giặt rất nhanh và sạch.
+764. Cách giặt các loại áo len sợi:
+Tốt nhất bạn nên giặt bằng nước không có chất vôi song thông thường nước máy hay nước giếng đều có nhiều chất vôi. Muốn khử vôi đọng lại trên đồ len, bạn hãy thêm vào nước xả cuối cùng một muỗng canh giấm, không màu.
+765. Cách giặt cà vạt:
+Những cà vạt bằng chất liệu tổng hợp thì có thể giặt bằng nước. Trước khi giặt, bạn hãy gắn cà vạt vào tấm bìa cứng giống hình chiếc cà vạt để khỏi bị biến dạng, sau đó phun nước lên cà vạt, dùng bàn chải chấm xà phòng tẩy rửa vết bẩn rồi lấy nước dội sạch. Trước khi phơi, dùng miếng vải khô  thấm hết nước trên cà vạt, sau đó để chỗ dâm hong khô. Khi nào khô hắn mới lấy tấm vải bìa cứng ra.
+766. Cách giặt khăn quàng cổ:
+Để giữ kho khăn quàng cổ không bị bạc màu, sau khi giặt song, hãy cho một ít giấm vào nước xả cuối cùng. Sau đó, trải nó giữa hai tấm khăn lông khô, ráo nước, đem phơi chỗ thoáng gió, mát.
+767. Cách giặt làm áo len bị chảy co bé:
+áo len mặc lâu thường bị chảy và chở nên rộng hơn, ảnh hưởng đến vẻ đẹp của áo. Để áo trở về hình dáng ban đầu, ta cho áo vào nước ở nhiệt độ 70 ă 80oC, không nên dùng nước nóng quá vì nó sẽ làm cho áo bị co bé quá. Nếu ống tay áo hay gấu áo bị mất đi tính co giãn, ta có  thể cho những chỗ đó vào nước nóng 40 ă 50oC, 1 đến 2 tiếng sau lấy áo ra phơi khô, như vậy tính co giãn sẽ được phục hồi trở lại.

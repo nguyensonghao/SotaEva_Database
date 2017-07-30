@@ -1,0 +1,39 @@
+933. Chọn màu phù hợp với đồ đạc trong phòng ở:
+Khi chọn màu, nên lấy màu của gỗ trong buồng làm chuẩn.
+- Nền nhà không nên có màu gần màu với giường tủ bàn ghế.
+- Nên chọn màu tường theo màu hoa đình và độ sáng tối của căn phòng. Nếu phòng có đủ độ sáng , có thể chọn những màu thiên về gam lạnh để quét tường, phòng hơi tối, thì nên cho những màu thiên về nóng.
+- Thông thường, rèm cửa nên có màu sắc hài hoà với màu tường, ga giường và nền nhà phải tạo nên sự đối xứng hợp lý.
+Nên nhớ trong một buồng không nên dùng trên ba loại màu. Màu sắc trong phòng tốt nhất là không quá lạnh, cũng đừng quá nóng.
+934. Chọn màu phù hợp với chủ nhà:
+Màu sắc trong phòng phải phù hợp với chủ nhân. thường thì buồng của vợ chồng mới cưới phải tạo được vẻ tươi trẻ, hưng phấn và đẹp đẽ. Muốn vạy nên dùng gam nóng là chính. Căn phòng của người trung niên phải có màu sắc hài hoà, trang trọng, trong lành, gam nóng lạnh đam sen. Buồng của người già nên có màu sắc nhã nhặn, tĩnh lặng, nên dùng màu lạnh. Nếu phần lớn diện tích là màu nóng (như màu đỏ tươi và màu vàng sẫm) thì khiến chủ nhân luôn ở trạng thía hưng phấn quá đôh làm bất lợi cho sức khoẻ.
+- Chọn những màu bổ trợ hoặc đối lập với màu  sắc chủ yếu của hoàn cảnh công việc. Bởi vì khi cảm thụ hai loại màu này, thần kinh thị giác có thể cảm nhận được sự kích thích lớn, giảm bớt sự mệt mỏi
+- Nên chú ý đến sức khỏe con người khi chọn dùng màu. Ví dụ: Màu lục có thể hấp thụ một lượng lớn tia tử ngoại. Vì vậy màu này có khả năng bảo vệ thị lực, làm giảm sự mệt mỏi của mắt. Tất cả những màu có nồng độ cao thường gây cảm giác căng thẳng, còn màu xám và những màu có nồng độ thấp là tạo cảm giác thư thái nhẹ nhàng. Nếu trong nhà có những người mắc bệnh hay chụi ảnh hưởng tâm lý (như bệnh tim hoặc cao huyết áp) trong phòng nên dùng màu xanh nhạt để giảm nhiệt độ cơ thể và làm bớt huyết áp. Nếu trong nhà có trẻ em nghịch ngợm, bạn nên dùng màu xanh non.
+935. Chọn cảnh trí trong nhà:
+- Cảnh rừng sâu: Đèn màu lục, ánh sáng màu lục tường cũng màu lục, phối hợp vói đồ dùng gia đình màu hạt dẻ hoặc màu vỏ trám, sẽ tạo nên không khí yên ổn, tĩnh lặng, khiến cho tinh thần thoải mái và có được cảm  giác dễ chịu. Kiểu phối hợp này thích hợp nhất trong mùa hè.
+- Cảnh biển: Tường màu lam, đèn có màu lam, toả ánh sáng màu lam nhạt, phối hợp với đồ dùng gia đình màu nhạt, sẽ tạo nên cảnh sắc của biển. Kiểu phối hợp màu này có tác dụng làm đầu ốc thoải mái, tiêu tan phiền muộn, hợp với cả bốn mùa.
+- Cảnh ánh dương: Tường màu vàng nhạt, phối hợp với đèn màu da cam, đồ dùng gia đình sáng màu. Kiểu phối hợp này rất giống cảnh ánh dương, mang màu sắc ấm áp. Loại phối màu như vậy rất thích hợp với mùa đông.
+- Cảnh mặt đất: Đèn và ánh sáng màu vàng đất, đồ dùng gia đình cũng màu vàng đất hoặc màu nâu. Trong buồng bạn sẽ có màu của đất, tạo cảm giác vững vàng và thanh nhã, thân thiết. Kiểu này dùng cho mùa xuân và thu.
+936. Chọn đèn trong buồng:
+Khi chọn đèn nên nghĩ tới tác dụng chiếu sáng, phạm vi chiếu sáng, cách chiếu sáng, màu ánh sáng, kiểu đèn.
+Khi chọn đèn chú ý cho đèn và buồng phải hài hoà và làm nổi bật nhau lên, để thể hiện đầy đủ được không khí và cảnh của căn phòng
+- Khi bố trí ánh sáng, phải đòi hỏi sự coi trọng không gian. Nếu là hành lang, có  thể sử dụng  đèn chiếu sáng bình thường, như đèn trần đơn giản có chụp thuỷ tinh, Nếu là phòng khách, có thể dùng loại đèn trần khá to. Đồng thời vì một ngọn đèn chính không thể đáp ứng được những nhu cầu khác nhau về ánh sáng ở từng chỗ trong phòng nên có thể dùng thêm các loại đèn sàn nhà và đèn bàn hỗ trợ, làm cho ánh sáng được đầy đủ và phong phú.
+- ánh sáng trong buồng mạnh hay yếu, nóng hay lạnh đều có tác dụng tâm lý và ảnh hưởng đến thần kinh. Nếu màu sắc trong phòng thiên về  gam lạnh, cso thể dùng ánh sáng làm tăng thêm cảm giác ấm áp, êm dịu trong phòng.
+937. Chọn đèn phù hợp với  chức năng căn phòng:
+- Phía trên bàn ăn nên có một đèn treo. Độ cao của đèn không quá độ cao của tầm mắt người đứng, ánh sáng đèn phải dịu để người ăn được ngon miệng. Nhất là trong khi ăn, ánh sáng nóng sẽ làm tăng cảm giác về sắc thái món ăn, dung loại đèn mạnh để tạo không khí vui vẻ, dễ chịu. Nếu màu sắc trong phòng thiên về gam nóng, có thể dùng đèn tuýt.
+- ánh sáng trong nhà bếp phải đủ để tiện cho rửa ráy.
+- Nhà tắm và nhà vệ sinh nên dùng ánh sáng trắng để thích  hợp với việc mở cửa thường  xuyênž
+- Trong phòng ngủ, nên có các loại ánh sáng đèn khác nhau để thích hợp với các loại nhu câu khác nhau như thay áo, trang điểm, đọc sáchž Nói chung khôing nên để một đèn to ở đầu giường, sẽ gây cảm giác ức chế, thường nên chọn loại đèn tường có chụp đèn hơi lờ mờ, toả ánh sáng dịu, làm nguông sáng cho toàn phòng ngủ. Đồng thời trên tủ quần áo , bàn trang điểm và tủ đầu giường có thể dùng loại đèn bàn điều chỉnh được độ sáng.
+- Đối với phòng khách, đèn sàn nhà kết hợp với ghế sa lông, bàn trà, chậu hoa, làm thành một góc rất lý thú trong phòng rất thích hợp cho việc tiếp khách, đọc sách hay may vá.
+938. Cách chống nắng trong phòng vào mùa hè:
+Che nắng phòng ở là một trong những cách làm chủ  yếu để phòng được mát mẻ. Cửa sổ nên có rèm che nhạt màu. Cũng có thể dùng giàn cây xanh che ánh nắng.
+Khi nhiệt độ bên ngoài cao hơn nhiệt độ trong phòng, nếu đóng cửa suốt từ 9h sáng đến 5-6h chiều thì thông thường nhiệt độ phòng có thể giảm bớt đi 2oC. Nếu vắng nhà cả ngày, thì trước khi đi khỏi, có thể đóng cửa, kéo rèm lại. Nếu thời tiết khô nóng nên vảy nước lạnh xuống nền nhà để hơi nước bốc hơi , hút hơi nóng, giảm nhiệt độ.
+- Có thể làm nhiều kiểu chống nắng khác như: Làm mái che ở hai bên tường nhà để giảm bớt ánh mặt trời chiếu vào tường, hoặc làm thêm tầng cách nhiệt bằng cách rải mạt cưa lên mái nhà. Ngoài ra có thể trồng cây xung quanh nhà ở hai bên tường. Đối với nhà cao tầng hay nhà một tầng, trồng những loại cây to như bạch dương hay những cây nhỏ như mây, song.
+	
+939. Cách giữ ấm trong nhà vào mùa đồng
+- Buồng hình vuông có hiệu quả giữ ấm tốt nhất.
+- Có 10% lượng khi lạnh lọt vào qua khe cửa và những kẽ hở khác. Vì vậy nên dùng giấy hoặc vải dán chặt vào những chỗ hở của các cửa không cần mở.
+- Tấm kính trên cửa làm cho không khí trong phòng bị mất đi nhiều. Vì vậy mà những cửa mà ánh nắng không chiếu tới được, tốt nhất là nên lấy riđô vải che kín lại.
+- ánh nắng chiếu thẳng vào phòng có thể làm nhiệt độ có thể làm nhiệt độ trong phòng tăng hơn bình thường tới 88%.
+- Cửa hai lớp chống lạnh tốt hơn cửa một lớp rất nhiều vì có thể làm giảm bớt sự mất nhiệt tới 50% giảm 25% lượng khí lạnh bên ngoài tràn vào.
+ - Không khí sát trần nhà luôn ấm hơn không khí sát nền nhà. Nên nghĩ cách làm không khí từ trần nhà chuyển xuống nền nhà thì có thể làm cho căn phòng ấm lên.
+- Thông thường giữ nhiệt độ trong phòng ở mức từ 	0-40oC thì mới thấy được độ ấm trong phòng tăng lên khoảng 2-oC.

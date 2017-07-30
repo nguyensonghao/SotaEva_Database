@@ -1,0 +1,503 @@
+[
+	{
+		"id": 1,
+		"cate": "Văn khấn tết Nguyên Đán",
+		"list": [
+			{
+				"id": 1,
+				"name": "Văn khấn ông Táo lên chầu Trời (23 tháng chạp)",
+				"file": "vankhan23.html"
+			},
+			{
+				"id": 2,
+				"name": "Văn khấn lễ Chạp",
+				"file": "vklechap.html"
+			},
+			{
+				"id": 3,
+				"name": "Văn khấn tất niên",
+				"file": "vkletatnien.html"
+			},
+			{
+				"id": 4,
+				"name": "Giao thừa ngoài trời",
+				"file": "vkcunggiaothuangoaitroi.html"
+			},
+			{
+				"id": 5,
+				"name": "Giao thừa trong nhà",
+				"file": "vkcunggiaothuatrongnha.html"
+			},
+			{
+				"id": 6,
+				"name": "Thần linh trong nhà (ngày mồng Một tết)",
+				"file": "vankhanthanhlinhtrongnha_mongmottet.html"
+			},
+			{
+				"id": 7,
+				"name": "Khấn tổ tiên (ngày mồng Một tết)",
+				"file": "vktotienmongmottet.html"
+			},
+			{
+				"id": 8,
+				"name": "Văn khấn tạ năm mới (hóa vàng)",
+				"file": "vlletanammoi.html"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"cate": "Văn khấn các tiết trong năm",
+		"list": [
+			{
+				"id": 9,
+				"name": "Văn khấn tết Nguyên Tiêu (lễ thượng nguyên)",
+				"file": "vktetnguyentieu.html"
+			},
+			{
+				"id": 10,
+				"name": "Văn khấn cúng sao giải hạn (Rằm tháng giêng)",
+				"file": "vkcungdangsaogiaihan_ramthanggieng.html"
+			},
+			{
+				"id": 11,
+				"name": "Tiết thanh minh (Văn khấn lễ âm phần Long Mạch, Sơn Thần Thổ ...)",
+				"file": "vktietthanhminh_amphanlongmach.html"
+			},
+			{
+				"id": 12,
+				"name": "Tiết thanh minh (Văn khấn lễ vong linh ngoài mộ)",
+				"file": "vktietthanhminh_ngoaimo.html"
+			},
+			{
+				"id": 13,
+				"name": "Văn khấn tết Hàn Thực (ngày 3 tháng 3)",
+				"file": "vktethanthuc3_3.html"
+			},
+			{
+				"id": 14,
+				"name": "Văn khấn tết Đoan Ngọ (ngày 5 tháng 5)",
+				"file": "vktetdoanngo.html"
+			},
+			{
+				"id": 15,
+				"name": "Tiết trung nguyên 15 tháng 7 (Khấn tổ tiên tại nhà)",
+				"file": "vkramthang7_totien.html"
+			},
+			{
+				"id": 16,
+				"name": "Tiết trung nguyên 15 tháng 7 (Khấn chúng sinh ngoài trời)",
+				"file": "vkramthang7_chungsinh.html"
+			},
+			{
+				"id": 17,
+				"name": "Tiết trung nguyên 15 tháng 7 (Cúng phóng sinh)",
+				"file": "vkramthang7_phongsinh.html"
+			},
+			{
+				"id": 18,
+				"name": "Tết trung thu 15 tháng 8 (Cúng tổ tiên tết Trung Thu)",
+				"file": "vktettrungthu.html"
+			},
+			{
+				"id": 19,
+				"name": "Tết hạ nguyên (Văn khấn tổ tiên Tết cơm mới)",
+				"file": "vktetcommoi.html"
+			},
+			{
+				"id": 20,
+				"name": "Sự tích ngày rằm tháng 7",
+				"file": "vkramthang7_thanlinh.html"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"cate": "Văn khấn mồng một và mười rằm",
+		"list": [
+			{
+				"id": 27,
+				"name": "Văn khấn Tổ công và các vị thần",
+				"file": "vkram_tocongvacacvithan.html"
+			},
+			{
+				"id": 28,
+				"name": "Văn khấn gia tiên",
+				"file": "vkram_mongmot_giatien.html"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"cate": "Văn khấn nghi lễ của Lễ tục vòng đời",
+		"list": [
+			{
+				"id": 27,
+				"name": "Lễ cúng mụ (Văn khấn cúng mụ)",
+				"file": "vkcungmu.html"
+			},
+			{
+				"id": 28,
+				"name": "Lễ cúng mụ (Đầy năm)",
+				"file": "vkcungmu_daynam.html"
+			},
+			{
+				"id": 29,
+				"name": "Cưới gả (Văn khấn yết cáo Gia thần, Gia tiên)",
+				"file": "vkcuoiga.html"
+			},
+			{
+				"id": 30,
+				"name": "Văn khấn lễ động thổ",
+				"file": "vkledongtho.html"
+			},
+			{
+				"id": 31,
+				"name": "Lễ nhập trạch (Văn khấn thần linh)",
+				"file": "vknhaptrach_thanlinh.html"
+			},
+			{
+				"id": 32,
+				"name": "Lễ nhập trạch (Văn khấn cáo yết Gia Tiên)",
+				"file": "vknhaptrach_giatien.html"
+			},
+			{
+				"id": 33,
+				"name": "Lễ tân gia (Văn khấn Yết cáo Táo quân Thổ thần)",
+				"file": "vktangia_taoquanthothan.html"
+			},
+			{
+				"id": 34,
+				"name": "Lễ tân gia (Văn cúng Gia tiên)",
+				"file": "vktangia_giatien.html"
+			},
+			{
+				"id": 35,
+				"name": "Văn khấn lễ khai trương cửa hàng",
+				"file": "vkkhaitruongcuahang.html"
+			},
+			{
+				"id": 36,
+				"name": "Văn khấn Bồi hoàn địa mạch",
+				"file": "vkboihoandiamach.html"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"cate": "Văn khân dâng sao giải hạn",
+		"list": [
+			{
+				"id": 37,
+				"name": "Văn khấn giải hạn sao Thái Dương",
+				"file": "vksaothaiduong.html"
+			},
+			{
+				"id": 38,
+				"name": "Văn khấn giải hạn sao Thái Âm",
+				"file": "vksaothaiam.html"
+			},
+			{
+				"id": 39,
+				"name": "Văn khấn giải hạn sao Mộc Đức",
+				"file": "vksaomocduc.html"
+			},
+			{
+				"id": 40,
+				"name": "Văn khấn giải hạn sao Vân Hán",
+				"file": "vksaovanhan.html"
+			},
+			{
+				"id": 41,
+				"name": "Văn khấn giải hạn sao Thổ Tú",
+				"file": "vksaothotu.html"
+			},
+			{
+				"id": 42,
+				"name": "Văn khấn giải hạn sao Thái Bạch",
+				"file": "vksaothaibach.html"
+			},
+			{
+				"id": 43,
+				"name": "Văn khấn giải hạn sao Thủy Diệu",
+				"file": "vksaothuydieu.html"
+			},
+			{
+				"id": 44,
+				"name": "Văn khấn giải hạn sao La Hầu",
+				"file": "vksaolahau.html"
+			},
+			{
+				"id": 45,
+				"name": "Văn khấn giải hạn sao Kế Đô",
+				"file": "vksaokedo.html"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"cate": "Văn khấn trong tang lễ",
+		"list": [
+			{
+				"id": 46,
+				"name": "Ý nghĩa các văn khấn",
+				"file": "vkynghia_letang.html"
+			},
+			{
+				"id": 48,
+				"name": "Văn khấn lễ Thiết Linh",
+				"file": "vkThietlinh.html"
+			},
+			{
+				"id": 49,
+				"name": "Văn khấn lễ Thành Phục",
+				"file": "vkThanhphuc.html"
+			},
+			{
+				"id": 50,
+				"name": "Văn khấn lễ Chúc Thực",
+				"file": "vklechucthuc.html"
+			},
+			{
+				"id": 51,
+				"name": "Văn khấn lễ cáo Long Thần Thổ Địa",
+				"file": "vklecaolongthanthodia.html"
+			},
+			{
+				"id": 52,
+				"name": "Văn khấn lễ Thành Phần",
+				"file": "vklethanhphan.html"
+			},
+			{
+				"id": 53,
+				"name": "Văn khấn lễ Hồi Linh",
+				"file": "vklehoilinh.html"
+			},
+			{
+				"id": 54,
+				"name": "Văn khấn lễ Châu Tổ (Triều tổ lễ cáo)",
+				"file": "vkleChauTo.html"
+			},
+			{
+				"id": 55,
+				"name": "Văn khấn lễ Tế Ngu",
+				"file": "vkleTeNgu.html"
+			},
+			{
+				"id": 56,
+				"name": "Văn khấn lễ Chung Thất và Tốt Khốc",
+				"file": "vkleChungThatTotKhoc.html"
+			},
+			{
+				"id": 57,
+				"name": "Văn khấn lễ Triệu tịch Điện văn",
+				"file": "vkleTrieutichdienvan.html"
+			},
+			{
+				"id": 58,
+				"name": "Văn khấn lễ Tiều Tường, Đại Tường (Giỗ đầu, giỗ hai)",
+				"file": "vkleTieuTuongDaiTuong_gio12.html"
+			},
+			{
+				"id": 59,
+				"name": "Văn khấn lễ Đàm Tế",
+				"file": "vkDamTe.html"
+			},
+			{
+				"id": 60,
+				"name": "Văn khấn lễ rước linh vị vào chính điện yết cáo Tiên Tổ",
+				"file": "vkruoclinhvaofyetcaoTienTo.html"
+			},
+			{
+				"id": 61,
+				"name": "Văn khấn lễ Cải Cát",
+				"file": "vkCaicat.html"
+			},
+			{
+				"id": 62,
+				"name": "Văn khấn cách miền trần thế",
+				"file": "vkTranthe.html"
+			},
+			{
+				"id": 63,
+				"name": "Văn khấn lễ Long Mạch Sơn Thần và Thổ Thần",
+				"file": "vkSonThanThoThan.html"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"cate": "Văn khấn khi cúng giỗ",
+		"list": [
+			{
+				"id": 64,
+				"name": "Ý nghĩa cúng giỗ",
+				"file": "vkkhicunggio.html"
+			},
+			{
+				"id": 66,
+				"name": "Văn khấn chính ngày giỗ đầu",
+				"file": "vkchinhngaygiodau.html"
+			},
+			{
+				"id": 67,
+				"name": "Văn khấn Thổ Thần, Táo Quân, Long Mạch và các vị Thần linh trước khi Giỗ Đầu",
+				"file": "vkthothantaoquanlongmach_giodau.html"
+			},
+			{
+				"id": 68,
+				"name": "Văn khấn chính ngày Giỗ hết (Đại Tường)",
+				"file": "vkchinhngaygiohet.html"
+			},
+			{
+				"id": 69,
+				"name": "Văn khấn Thổ Thần, Táo Quân, Long Mạch và các vị Thần linh trước khi Giỗ Hết",
+				"file": "vkthothantaoquanlongmach_giohet.html"
+			},
+			{
+				"id": 70,
+				"name": "Văn khấn gia tiên ngày giỗ Tiên Thường (Cát Kỵ)",
+				"file": "vkgiatienngaygiotienthuong.html"
+			},
+			{
+				"id": 71,
+				"name": "Văn khấn Thổ Thần, Táo Quân, Long Mạch và các vị Thần linh vào ngày Tiên Thường (trước ngày giỗ 1 ngày)",
+				"file": "vkthothantaoquanlongmach_ngaytienthuong.html"
+			},
+			{
+				"id": 72,
+				"name": "Văn khấn Gia tiên ngày giỗ Thường (Cát Kỵ)",
+				"file": "vkgiatienchinhngaygiotienthuong.html"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"cate": "Văn khấn thần linh tại gia",
+		"list": [
+			{
+				"id": 73,
+				"name": "Văn khấn Thổ Công",
+				"file": "vkthocong.html"
+			},
+			{
+				"id": 74,
+				"name": "Văn khấn Thần Tài",
+				"file": "vkthantai.html"
+			},
+			{
+				"id": 75,
+				"name": "Văn khấn Thánh Sư",
+				"file": "vkthanhsu.html"
+			},
+			{
+				"id": 76,
+				"name": "Văn khấn Tiền Chủ",
+				"file": "vktienchu.html"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"cate": "Văn khấn tại chùa",
+		"list": [
+			{
+				"id": 77,
+				"name": "Văn khấn tại Chùa",
+				"file": "vktaichua.html"
+			},
+			{
+				"id": 78,
+				"name": "Văn khấn lễ Phật",
+				"file": "vklephat.html"
+			},
+			{
+				"id": 79,
+				"name": "Văn khấn lễ Đức Ông",
+				"file": "vkducong.html"
+			},
+			{
+				"id": 80,
+				"name": "Văn khấn Đức Thánh Hiền",
+				"file": "vkducthanhhien.html"
+			},
+			{
+				"id": 81,
+				"name": "Văn khấn cầu tài, cầu lộ, cầu bình an ở Tam Đảo",
+				"file": "vkcaubinhanTamBao.html"
+			},
+			{
+				"id": 82,
+				"name": "Văn khấn lễ Đức Địa Tạng Vương Bồ Tát (U Minh Giáo Chủ)",
+				"file": "vkuminhgiaochu.html"
+			},
+			{
+				"id": 83,
+				"name": "Văn khấn lễ Đức Quán Thế Âm Bồ Tát (Phật Bà Quan Âm)",
+				"file": "vkquantheambotat.html"
+			},
+			{
+				"id": 84,
+				"name": "Văn khấn xin giải trừ bệnh tật",
+				"file": "vkgiaitrubenhtat.html"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"cate": "Văn khấn cúng lễ tại Đình, Đền, Miếu, Phủ",
+		"list": [
+			{
+				"id": 85,
+				"name": "Văn khấn lễ Thành Hoàng ở Đình, Miếu",
+				"file": "vkthanhhoangdinhdenmieu.html"
+			},
+			{
+				"id": 86,
+				"name": "Văn khấn lễ Tam Tòa Thánh Mẫu",
+				"file": "vktamtoathanhmau.html"
+			},
+			{
+				"id": 87,
+				"name": "Văn khấn lễ Mẫu Thượng Ngàn (Ban Sơn Trang - chùa Hương)",
+				"file": "vkmauthuongngan.html"
+			},
+			{
+				"id": 88,
+				"name": "Văn khấn Mẫu Thượng Thiên",
+				"file": "vkmauthuongthien.html"
+			},
+			{
+				"id": 89,
+				"name": "Văn khấn ban Công Đồng",
+				"file": "vkbancongdong.html"
+			},
+			{
+				"id": 90,
+				"name": "Văn khấn Đức Thánh Trần",
+				"file": "vkducthanhtran.html"
+			},
+			{
+				"id": 91,
+				"name": "Văn khấn tại đền Chúa Bà Kho",
+				"file": "vkbachuakho.html"
+			},
+			{
+				"id": 92,
+				"name": "Văn khấn lễ Thánh Mẫu Liễu Hạnh",
+				"file": "vkthanhmaulieuhanh.html"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"cate": "Nguyên tắc cúng, khấn, vái, lạy",
+		"list": [
+			{
+				"id": 93,
+				"name": "Nguyên tắc cúng, khấn, vái, lạy",
+				"file": "nguyentaclay.html"
+			}
+		]
+	}
+]

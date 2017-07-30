@@ -1,0 +1,81 @@
+926. Mẹo tính nhanh:
+- Nếu muôn nhân một số nào đó cho năm, hãy nhân số đó với 10 rồi chia cho 2.
+- Nếu muốn chia số nào đó với 1 hãy nhân số đó với 10 rồi cộng  với  chính số đó.
+- Nếu muốn nhân một số nào đó với 9 hãy nhân số đó với 10 rồi trừ đi chính số đó.
+927. Thuật phong thuỷ: Sắp xếp bàn làm việc:
+Cảm giác thấy khó làm việc, cảm thấy đôi chút khoái chí, tránh để góc bàn khác hướng về bàn làm  việc của mình, đặt luôn một cây xanh hoặc chuyễn chỗ.
+Tìm hướng phù hợp với mình theo năm sinh , dựa theo phép tính đơn giản để tìm con số.
+Ví dụ: Năm sinh 1967 Cộng hai con số cuối năm sinh 67: Kết quả 6+7=1	 làm tiếp 1+	=4.
+- Cộng thêm 5 vào kết quả trên nếu là Nữ: 4+5=9 ta có con số 9 và tra theo bảng.
+- Trừ đi 10 vào kết quả nếu là Nam: 4-10 = -6 ta có số 6 tra bảng.
+Tra bảng có hướng phù hợp: Kê lại bàn làm việc theo hướng này, xác định hướng bằng la bàn.
+ 
+Bảng tra
+Sô 1
+Sô 2 
+Sô 	
+Sô 4
+Sô 5
+Sô 6
+Sô 7 
+Sô 8
+Sô 9	Hướng
+Hướng
+Hướng
+Hướng
+Hướng
+Hướng
+Hướng
+Hướng
+Hướng	Đông Nam
+Đông Bắc
+Nam
+Bắc
+Tây Nam
+Tây
+Tây Bắc
+Tây Nam
+Đông
+928	. Chọn đất làm nhà:
++ Nên chánh:
+- Nền giếng cũ, ao tù, nền đất hoang: Dễ ốm đau, phong thấp.
+- Nơi của đường chữ žDinh	 đối diện với cổng lộ: dễ tai nạn.
+- Phía trước nhà có đường cong hình chữ žS	 làm ăn không đạt.
+- Phía trước nhà có nhà người khác để đầu chiếu thẳng vào nhà mình: dễ hay thù oán, tang tóc.
+- Trồng đại thụ trước nhà phía Tây Bắc: mất sự che chở cho chủ nhà, không lợi vì dễ bị sét.
+- Trên đất hẹp hậu: làm ăn không phát.
+- Cạnh nơi có miếu thờ vì là âm u , lạnh lẽo thần bí.
++ Nên chọn:
+Đất làm nhà bằng phẳng, rộng rãi, cây cối xung quanhh tốt tươi, hướng nhà Tây Nam hay Nam là lý tưởng.
+929. Màu sắc với sức khoẻ đời sống:
+- Màu xanh: Làm người bệnh có cảm giác an toàn.
+- Màu xanh da trời: Tạo cảm giác yên tĩnh, làm mất đi sự suy yếu của cơ bắp do màu hồng gây ra.
+- Màu lục: Gây cảm giác an toàn, lý tưởng, làm cho người bệnh hoạt động kém hơn so với màu đỏ.
+- Màu lam ngọc: Có thể chữa trị các bệnh dạ dày, rối loạn tiêu hoá.
+- Màu hồng: Tạo không khí tưng bừng, kích thích thần kinh người nóng tính, kích thích hồng cầu và mất dần triệu trứng trầm cảm.
+- Màu hồng tươi: Làm những người quá xúc động trẫn tĩnh trở lại, làm cho người hiếu động trở thành thụ động làm cho cơ bắp yếu bớt đi.
+- Màu vàng: Có tác dụng kích thích tiêu hoá, cảm giác rực rỡ  hy vọng
+- Màu vàng đậm: Làm gây nôn.
+- Màu nâu: Gây ức chế buồn rầu.
+- Màu trắng: Thường gây phản ứng trung tính, đôi khi làm cho bệnh nhên thức đầu, thấp khớp, bệnh thần kinh bị khó ngủ và chỗ đau tái phát.
+- Màu đỏ: Gây cảm giác ấm áp, phấn khích.
+- Màu tím: Gây cảm giác tôn thờ, quý hiếm, kiêu ngạo.
+- Màu đen: Gây cảm giác trang trọng, nghiêm túc, trầm mặc, bị.
+- Màu da cam: Gây cảm giác vui vẻ, hoạt bát.
+- Màu lam: Gây cảm giác mát mẻ, yên bình.
+930. Tác dụng của kết hợp mùi vị 
+Vị chát + chua: sưởi nóng thân thể, giảm báo ăn uống thêm ngon miệng không ủe oải khi ăn.
+Vị chua + mặn: làm người ấm tăng trong nhanh 
+Vị chát + đắng: làm thân thể nhẹ nhàng tác phong nhanh nhẹn gia tăng năng lượng , thích hợp cho người có huyết áp thấp.
+Vị ngọt + chua làm cơ thể tăng trong nhanh tăng mô mỡ gia tăng cơ bắp tinhkhiêt cơ thể giảm năng lượng 
+931. Cười là thuốc bổ
+- Tiếng cười làm giảm Stress, cười thoả mái ngăn ngừa được bệnh tim, người bị bệnh ung thư cũng tin rằng chống được žthần chết	.
+- Cười thoải mái giúp tăng lưu thông máu, giảm viêm và tăng năng lượng toàn thân, có thể ngăn ngừa huyết áp cao và viêm loét các cơ tiêu hoá.
+- Có nhiều kiểu cười, loại cười khác nhau để áp dụng:
+- Loại cười ấm áp dành cho người có tỉnh táo bạo, hống hách.
+- Loại cười thầm không phát âm thanh nhưng  tác dụng rất mạnh, kết hợp thể thao thể dục.
+- Loại cười ha ha, hê hê	 thoải mái vô tư, xả láng mọi người cùng cười, cười hết cỡ vui tươi bổ ích.
+932. Chọn màu theo kích thước phòng ở:
+Nếu muốn phòng ngủ cao và rộng thì nên dùng màu lạnh và sáng để quét tường, loại trừ được cảm giác ức chế và nâng cao không gian thị giác.
+Dùng màu có độ sáng cao sẽ có cảm giác nhẹ nhõm, màu có độ sáng thấp sẽ có cảm giác nặng nề. Cho nên, trần nhà màu trắng, tường màu nhạt nền nhà màu sẫm sẽ cho cảm giác vững chãi, hài hoà.
+Màu nóng làm thấy như gần hơn, còn màu lạnh làm cho thấy như xa hơn. í dụ như dùng trần nhà và nền nhà màu nhạt làm căn phòng như cao ráo, rộng rãi hơn. Nếu như cầu thang nhà hẹp và dài, có thể dùng màu xanh nhạt hoặc xanh thẫm nó có vẻ rộng rãi sáng sủa hơn.
